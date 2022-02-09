@@ -1,3 +1,5 @@
+REPO IS NOT MAINTANED - ARCHIVING AS READ ONLY
+
 # Carpenter Bee
 
 View and Control your Swarm Bee node through debug-api  
